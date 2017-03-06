@@ -21,10 +21,6 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>Follow</actionName>
-        <type>Default</type>
-    </actionOverrides>
-    <actionOverrides>
         <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -55,12 +51,13 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>substitute1</label>
+    <label>random_data_777</label>
     <nameField>
-        <label>substitute1 Name</label>
+        <label>random_data_777 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>substitute11</pluralLabel>
+    <pluralLabel>random_data_7778</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <visibility>Public</visibility>
 </CustomObject>
