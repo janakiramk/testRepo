@@ -18,6 +18,4 @@
     <tab>standard-Product2</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
-    <tab>AR_Obj1__c</tab>
-    <tab>Bag__c</tab>
 </CustomApplication>
