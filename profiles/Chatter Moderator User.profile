@@ -1403,6 +1403,12 @@
     <layoutAssignments>
         <layout>testingsample__c-testingsample Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>trunkVariable__c-trunkVariable Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>trunk_label__c-trunk_label Layout</layout>
+    </layoutAssignments>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
