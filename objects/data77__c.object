@@ -51,12 +51,12 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>trunk_label</label>
+    <label>data77</label>
     <nameField>
-        <label>trunk_label Name</label>
+        <label>data77 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>trunk_label</pluralLabel>
+    <pluralLabel>data77</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
